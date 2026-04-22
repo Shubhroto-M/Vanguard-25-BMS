@@ -1,7 +1,7 @@
 # 🐉 VANGUARD 25: Industrial-Grade 5S Battery Management System
 
 ![Status: V1.0 Complete](https://img.shields.io/badge/Status-V1.0_Complete-success)
-![Platform: KiCad 7.0](https://img.shields.io/badge/Platform-KiCad_7.0-blue)
+![Platform: KiCad 9.0](https://img.shields.io/badge/Platform-KiCad_7.0-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green)
 
 > **Vanguard 25** is an open-source, high-current (20A) Battery Management System designed with strict, aerospace-style redundant safety architectures. It is built to handle massive current dumps while protecting lithium-ion chemistry from catastrophic failure modes.
